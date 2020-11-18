@@ -1,0 +1,25 @@
+body
+{
+ background-color: #151c28;
+}
+header h1
+{
+    text-align: center;
+    color: #ffe14f;
+}
+article
+{
+    border: 3px solid #ffe14f;
+    border-radius: 5px;
+    margin: 10px auto;
+    width: 460px;
+    padding: 8px;
+}
+article img
+{
+    height: 128px;
+}
+article:hover
+{
+    background-color: #8daec6;
+}
