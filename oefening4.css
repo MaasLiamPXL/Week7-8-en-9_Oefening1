@@ -7,13 +7,32 @@ header h1
     text-align: center;
     color: #ffe14f;
 }
-article
-{
+.box{
     border: 3px solid #ffe14f;
     border-radius: 5px;
     margin: 10px auto;
     width: 460px;
     padding: 8px;
+}
+.box1{
+    position: relative;
+    left: -710px;
+    top: -5px;
+}
+.box2{
+    position: relative;
+    left: -225px;
+    top: -170px;
+}
+.box3 {
+    position: relative;
+    left: 280px;
+    top: -334px;
+}
+.box4{
+    position: relative;
+    left: 765px;
+    top: -498px;
 }
 article img
 {
